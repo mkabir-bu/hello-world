@@ -1,2 +1,2 @@
 # hello-world
-his repository is for practicing the GitHub Flow for BU DX500 . 
+Experienced Senior Data Platform Engineer with a proven track record in designing, implementing and managing cloud-based data solutions in regulated environments, particularly in the life sciences and biopharmaceutical domains. Skilled in leveraging AWS technologies, Apache Spark, data lake solutions, and Agile methodologies to drive innovation and efficiency. Demonstrated ability to collaborate across teams, mentor engineers, and optimize processes to meet business and technical goals in fast-paced, evolving environments.
